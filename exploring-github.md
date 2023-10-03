@@ -1,4 +1,4 @@
-# setting up github
+# Setting up GitHub
 
 #Vocabulary List
 - git
@@ -32,3 +32,19 @@
 1. git add (stage the addition to local machine)
 2. git commit -m "message goes here"
 3. git push origin main (uploads to github)
+
+# The Tech Stack
+
+Front-end
+- HTML + CSS
+- JavaScript
+- React
+
+Back-end
+- Ruby
+- Ruby on Rails
+- PostgreSQL
+
+Version Control
+- Git
+- GitHub (cloud for code collaboration)
